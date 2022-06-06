@@ -8,8 +8,8 @@ Images provided are 2560x1440 and are monocolored.
 
 ### Grayscale
 
-- [White](./images/white.png)
-- [Off-white](./images/off-white.png)
-- [Light Gray](./images/light-gray.png)
-- [Gray](./images/gray.png)
-- [Black](./images/black.png)
+- [White](./images/white.png?raw=true)
+- [Off-white](./images/off-white.png?raw=true)
+- [Light Gray](./images/light-gray.png?raw=true)
+- [Gray](./images/gray.png?raw=true)
+- [Black](./images/black.png?raw=true)
