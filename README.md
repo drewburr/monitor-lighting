@@ -1,10 +1,12 @@
 # Monitor lighting
 
-A colection of images that are intented to provide a way to use your extra monitors for lighting effects. The main use-case I see for this is to help provide balanced lighting in a video call.
+A colection of images that are intended to provide a way to use your extra monitors for lighting effects. An example use-case for this is to help provide balanced lighting in a video call.
 
-Images provided are 2560x1440 and are monocolored.
+All images provided are 5120x2880 and are monocolored.
 
 ## Colors
+
+When selecting an image, you may need to zoom in slightly to get full-screen coverage.
 
 ### Grayscale
 
